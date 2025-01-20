@@ -5,4 +5,5 @@ Este é um projeto Fullstack simples, desenvolvido utilizando Vue.js no frontend
 Esse projeto é ideal para aprender ou demonstrar a construção de aplicações modernas e seguras com foco na experiência do usuário.
 
 Demonstração
-![Demonstração da Aplicação](frontend/public/fullstack_app.gif)
+
+![fullstack_app ](https://github.com/user-attachments/assets/e9ba5e83-a87c-4478-865d-b1e17cc56963)
